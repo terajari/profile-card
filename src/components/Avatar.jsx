@@ -3,7 +3,7 @@ import React from 'react'
 const Avatar = () => {
   return (
     <div>
-        <img src="src/assets/bonneyunyil.jpg" alt="bonneyunyil" className="avatar" />
+        <img src="https://ibb.co/s6Qr6Sz" alt="bonneyunyil" className="avatar" />
     </div>
   )
 }
